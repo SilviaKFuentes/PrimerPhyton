@@ -6,4 +6,3 @@ Este es mi primer proyecto en Python usando Git y GitHub 🚀.
 ```bash
 python main.py
 ```
-
